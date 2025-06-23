@@ -8,8 +8,7 @@ This project presents a comprehensive **Supply Chain Management Dashboard** buil
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](<img width="960" alt="6" src="https://github.com/user-attachments/assets/8271f644-9ca3-4c14-8c83-d92a74b2d8f7" />
-)
+![Dashboard Screenshot](https://github.com/Apurv-8121/supply-chain-dashboard/blob/main/6.png)
 
 
 ---
