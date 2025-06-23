@@ -2,8 +2,6 @@
 
 This project presents a comprehensive **Supply Chain Management Dashboard** built using **Tableau Desktop**, aimed at analyzing inventory, supplier performance, transportation efficiency, order fulfillment, and costs based on a Fashion & Beauty dataset.
 
-> 🧠 **This project was completed as part of the Business Analytics Fellowship by [Unified Mentors](https://unifiedmentors.com/)**.
-
 ---
 
 ## 📊 Dashboard Preview
@@ -85,8 +83,7 @@ The dataset contains:
 
 ## 🎓 Credits
 
-📌 **Project completed under the guidance of Unified Mentors  
-Business Analytics Fellowship – 2025 Cohort**  
+📌 **Project completed under the guidance of Unified Mentor   
 🔗 [https://unifiedmentors.com](https://www.unifiedmentor.com/)
 
 ---
