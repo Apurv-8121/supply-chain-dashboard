@@ -84,7 +84,7 @@ The dataset contains:
 ## 🎓 Credits
 
 📌 **Project completed under the guidance of Unified Mentor   
-🔗 [https://unifiedmentors.com](https://www.unifiedmentor.com/)
+🔗 [https://unifiedmentor.com](https://www.unifiedmentor.com/)
 
 ---
 
